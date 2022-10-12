@@ -1,4 +1,22 @@
 body{
     color:aliceblue;
-    background-color: red;
+    background-color: blue;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+div.wrapper{
+    background-color: white;
+    padding: 20px;
+}
+img{
+    width: 150px;
+    height: 100px;
+}
+.igen{
+    float:right;
+    padding: 30px;
+}
+.nem{
+    float:left;
+    padding:10px;
 }
